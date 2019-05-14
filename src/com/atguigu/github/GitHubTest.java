@@ -9,6 +9,7 @@ public class GitHubTest {
 		System.out.println("回复本地仓库02");
                 System.out.println("回复本地仓库03");
 		System.out.println("回复本地仓库04");
+		System.out.println("回复本地仓库05");
 
     
 	}
